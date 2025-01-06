@@ -72,6 +72,7 @@
     border-radius: 30%;
     /* background-color:blue; */
     background-color:rgb(94, 190, 94);
+    /* background-color: white; */
 }
 #box3{
     width: 450px;
@@ -159,7 +160,10 @@
     margin-top: 5%;
     transition: 4;
     border: 2px solid black;
+    border: 5px solid black;
+    border-radius: 5%;
 }
 body{
-    background-color: blueviolet;
+    /* background-color: rgb(116, 60, 168); */
+    background-color:rgb(230, 104, 104) ;
 }
